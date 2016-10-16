@@ -14,12 +14,15 @@ layout: default
     </ul>
 </div>
 
-    <h1 class="post__title">{{ page.title }}</h1>
+<div class="post">
+    <div class="post__title">
+      <h1>{{ page.title }}</h1>
+    </div>
         <p class="post__date">{{ page.date | date: '%B %-d, %Y' }}</p>
         <div class="post__content"?>
             {{ content }}
         </div>
-        <div class="post_prevnext" >
+        <div class="post_prevnext">
           {% if page.previous.url %}
              <a class="prev" href="{{page.previous.url}}">« prev</a>
            {% endif %}
@@ -27,6 +30,4 @@ layout: default
              <a class="next" href="{{page.next.url}}">next »</a>
            {% endif %}
         </div>
-
-
 </div>

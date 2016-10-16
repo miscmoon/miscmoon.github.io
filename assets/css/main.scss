@@ -160,11 +160,6 @@ img {
 
 .post {
 	padding-bottom: 30px;
-	&__back {
-		a {
-
-		}
-	}
 	&__title {
 		display: block;
 		margin-top: 0px;
@@ -181,11 +176,6 @@ img {
 	}
 	&__date {
         color: $color-grey-strong;
-	}
-	&__meta {
-		p {
-
-		}
 	}
 	&__content {
 		padding-top: 20px;
@@ -284,7 +274,6 @@ img {
 			border-bottom: 1px dashed $color-black;
 		}
 	}
-}
 	&_prevnext {
 		margin-bottom: 30px;
 		.prev {

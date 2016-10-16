@@ -1,0 +1,33 @@
+# Blog settings
+permalink: /:year/:title
+
+
+# My variables
+name: miscmoon
+description: Misc writings and sometimes stories.
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
+# gems: ["emoji_for_jekyll"]
+
+gems:
+  - jekyll-feed
+  - jemoji

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="header">
+  <h1><a href="http://miscmoon.github.io" title="Index /">
+  misc.</a>moon</h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="about">
+    <!-- <a class="about__back" href="/">&lt;- Back /</a>
+
+-->
+    <h1 class="about__title">About</h1>
+    <div class="about__content">
+        {{ content | markdownify }}
+    </div>
+</div>

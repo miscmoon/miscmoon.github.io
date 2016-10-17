@@ -8,4 +8,4 @@ I am a psychologist who writes and I am many things - sensitive, observing, and 
 
 <p align="center">:crescent_moon:</p>
 
-<p align="center">Powered by [Jekyll](http://jekyllrb.com).</p>
+<p align="center">Powered by [Jekyll](http://jekyllrb.com)</p>

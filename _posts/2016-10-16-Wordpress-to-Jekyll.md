@@ -8,7 +8,7 @@ I've been nostalgic of that time, which I feel has been completely buried under 
 
 So here we are! Wordpress is a great tool for large-scale web projects that require a CMS, but not so efficient when all you want to do is write and put up a few pictures (my case).
 
-### Static Websites with Jekyll
+## Static Websites with Jekyll
 Static websites are the way forward and [Jekyll](http://jekyllrb.com) is a great option for that; light-weight, quick, safe. Words and simple code, like the old days. Why I love it:
 
 * no need for a fancy CMS or backend

@@ -3,7 +3,7 @@
 
 @import "reset";
 @import "config";
-@import 'https://fonts.googleapis.com/css?family=Alegreya:400,400i,700,700i';
+@import 'https://fonts.googleapis.com/css?family=Alegreya+Sans|Alegreya:400,400i,700,700i';
 
 body {
 	color: $color-black;
@@ -122,6 +122,7 @@ img {
 
 	h1 {
 		font-size: 2em;
+		font-family: 'Alegreya Sans';
 		margin-bottom: 0;
 	}
 	ul {
@@ -138,6 +139,7 @@ img {
 	padding-bottom: 30px;
 	h1 {
 		font-size: 1.4em;
+		font-family: 'Alegreya Sans';
 		margin-bottom: 5px;
 	}
 }
@@ -167,6 +169,7 @@ img {
 		h1 {
 			display: inline-block;
 			font-size: 1.6em;
+			font-family: 'Alegreya Sans';
 			padding-right: 10px;
 			padding-bottom: 2px;
 			text-decoration: none;
@@ -181,6 +184,7 @@ img {
 		padding-top: 20px;
 		h1 {
 			font-size: 1.25em;
+			font-family: 'Alegreya Sans';
 			margin-top: 50px;
 			margin-bottom: 10px;
 			font-weight: 700;
@@ -188,6 +192,7 @@ img {
 		}
 		h2 {
 			font-size: 1.07em;
+			font-family: 'Alegreya Sans';
 			margin-top: 50px;
 			margin-bottom: 5px;
 			font-weight: 700;
@@ -287,6 +292,7 @@ img {
 .about {
 	&__title {
 		font-size: 1.6em;
+		font-family: 'Alegreya Sans';
 		margin-top: 20px;
 		margin-bottom: 10px;
 	}
@@ -294,6 +300,7 @@ img {
 		margin-top: 20px;
 		h1 {
 			font-size: 1.2em;
+			font-family: 'Alegreya Sans';
 			font-style: italic;
 			margin-top: 30px;
 			margin-bottom: 5px;

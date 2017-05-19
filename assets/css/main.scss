@@ -136,6 +136,18 @@ img {
 	}
 }
 
+.intro {
+	padding-bottom: 30px;
+	h1 {
+		font-size: 1em;
+		margin-bottom: 5px;
+	}
+	a {
+		padding: 5px;
+		padding-left: 10px;
+	}
+}
+
 .blog {
 	padding-bottom: 30px;
 	h1 {
@@ -147,18 +159,6 @@ img {
 
 .date {
 		color: $color-grey-strong;
-}
-
-.intro {
-	padding-bottom: 30px;
-	h1 {
-		font-size: 1em;
-		margin-bottom: 5px;
-	}
-	a {
-		padding: 5px;
-		padding-left: 10px;
-	}
 }
 
 .post {
@@ -290,6 +290,14 @@ img {
 		}
 	}
 }
+
+.footer {
+	text-align: center;
+	padding: 20px 0;
+	font-size: .8em;
+	font-style: normal;
+}
+
 .about {
 	&__title {
 		font-size: 1.25em;

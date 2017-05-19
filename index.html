@@ -3,8 +3,9 @@ layout: default
 ---
 
 <div class="header">
-  <h1>/<a href="http://miscmoon.github.io" title="Index /">
-  miscmoon</a></h1>
+  <a href="http://miscmoon.github.io" class="logo" title="Index /">
+    <img src="/assets/img/moon.svg" alt="Index" width=auto height=auto>
+  </a>
     <ul>
         {% for item in site.data.navigation %}
         <li>
@@ -21,7 +22,7 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: '%d %b %Y' }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>

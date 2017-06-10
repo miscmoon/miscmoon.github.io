@@ -101,7 +101,7 @@ img {
 
 
 .wrapper {
-	max-width: 550px;
+	max-width: 700px;
 	margin: auto;
 	padding: 60px 30px 60px 30px;
 	@media screen and (max-width: $br) {
@@ -173,8 +173,7 @@ img {
 			font-family: 'Inconsolata';
 			padding-right: 10px;
 			padding-bottom: 2px;
-			text-decoration: none;
-			text-transform: uppercase;
+			text-decoration: underline;
 			font-weight: 700;
 		}
 	}

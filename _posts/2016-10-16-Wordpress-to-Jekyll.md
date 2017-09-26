@@ -1,6 +1,7 @@
 ---
 layout: post
-title: From Wordpress to Jekyll  
+title: From Wordpress to Jekyll
+category: etc  
 ---
 I published my first website sometime circa 2000. Of course I'd been obsessed with my computer before ever getting dial-up, so I was amazed to see what a few lines of html would output on the screen. I would write very basic code on notepad and push it out to my very own journal as so many did back then.
 

@@ -4,7 +4,7 @@ published: true
 title:  The human behind the blog
 ---
 
-<img align="right" src="assets/img/lucoffeecropped.png">
+<img align="right" src="/assets/img/lucoffeecropped.png">
 
 I am a psychologist who writes and I am many things - sensitive, observing, and alive - among others.
 

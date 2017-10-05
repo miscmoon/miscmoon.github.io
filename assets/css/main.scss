@@ -131,7 +131,7 @@ img {
 
 	h1 {
 		font-size: 2em;
-		font-family: 'Inconsolata';
+		font-family: Monospace;
 		margin-bottom: 0;
 	}
 
@@ -139,7 +139,7 @@ img {
 		margin-top: 10px;
 		li {
 			display: inline;
-			font-family: 'Inconsolata';
+			font-family: Monospace;
 			padding: 0;
 			padding-left: 5px;
 		}
@@ -163,7 +163,7 @@ img {
 	padding-bottom: 30px;
 	h1 {
 		font-size: 1.4em;
-		font-family: 'Inconsolata';
+		font-family: Monospace;
 		margin-bottom: 5px;
 	}
 }
@@ -181,7 +181,7 @@ img {
 		h1 {
 			display: inline-block;
 			font-size: 1.25em;
-			font-family: 'Inconsolata';
+			font-family: Monospace;
 			padding-right: 10px;
 			padding-bottom: 2px;
 			text-decoration: none;
@@ -199,7 +199,7 @@ img {
 		padding-top: 20px;
 		h1 {
 			font-size: 1.25em;
-			font-family: 'Inconsolata';
+			font-family: Monospace;
 			margin-top: 50px;
 			margin-bottom: 10px;
 			font-weight: 700;
@@ -208,7 +208,7 @@ img {
 
 		h2 {
 			font-size: 1.07em;
-			font-family: 'Inconsolata';
+			font-family: Monospace;
 			margin-top: 50px;
 			margin-bottom: 5px;
 			font-weight: 700;
@@ -330,7 +330,7 @@ img {
 .about {
 	&__title {
 		font-size: 1.25em;
-		font-family: 'Inconsolata';
+		font-family: Monospace;
 		margin-top: 20px;
 		margin-bottom: 10px;
 	}
@@ -339,7 +339,7 @@ img {
 		margin-top: 20px;
 		h1 {
 			font-size: 1.2em;
-			font-family: 'Inconsolata';
+			font-family: Monospace;
 			font-style: italic;
 			margin-top: 30px;
 			margin-bottom: 5px;

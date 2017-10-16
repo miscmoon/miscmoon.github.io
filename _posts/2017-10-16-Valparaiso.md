@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A day in Valparaíso
+title: A day in Valparaiso
 category: blog, dispatches from Chile
 ---
 

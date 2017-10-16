@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A day in Valparaiso
-category: blog, dispatches from Chile
+category: blog
 ---
 
 Yesterday Camila and I headed into Valparaíso for a bookbinding workshop. As we pulled into the station the air was humid and Valpo's typical sea mist hung from the sky. I was glad to have brought my jacket as it was chilly at first.

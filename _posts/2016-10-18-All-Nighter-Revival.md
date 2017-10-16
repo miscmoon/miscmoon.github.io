@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The All-Nighter Revival
-category: personal
+category: blog
 ---
 
 It is 2:54a.m.; I am sat at the dining room table because we're having the upstairs renovated and so the study has ceased to be for now. Unfortunately my procrastinating tendencies have yet again caught up with me, so here I am, catching up on last week's reading and preparing to start off the next conference on Saturday.

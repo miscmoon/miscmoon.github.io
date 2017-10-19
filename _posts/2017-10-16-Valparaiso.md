@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A day in Valparaiso
+title: A day in Valparaiíso
 category: blog
 ---
 
